@@ -7,3 +7,9 @@ function teamObj(name, level) {
 }
 
 module.exports = teamObj;
+
+
+// let raptors = teamObj('Raptors', 7);
+// raptors.points = 42;
+
+// console.log(raptors)
